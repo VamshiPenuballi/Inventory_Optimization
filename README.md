@@ -6,10 +6,10 @@ A complete end-to-end data-driven solution for inventory analytics and decision 
 
 ## 🚀 Live Dashboard
 
-Access the real-time web dashboard hosted separately:
+Monitor inventory health, KPIs, and trends in real-time via our hosted dashboard:
 
 🔗 [UrbanCo Inventory Management Dashboard (Live)](https://retail-data-dashboard.vercel.app/)
-*(Hosted on a different repo with frontend + JSON integration)*
+
 
 ---
 
