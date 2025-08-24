@@ -50,8 +50,5 @@ Monitor inventory health, KPIs, and trends in real-time via our hosted dashboard
 
 ---
 
-## 📬 Feedback & Contributions
 
-This project was developed as part of an academic analytics initiative. Feedback is welcome. For collaboration or suggestions, please open an issue.
 
----
