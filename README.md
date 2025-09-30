@@ -35,7 +35,7 @@ Monitor inventory health, KPIs, and trends in real-time via our hosted dashboard
 
 ## 📄 Documentation
 
-* **[SQL Documentation](./sql-documentation.docx)** — technical breakdown of schema, views, and queries
+* **[SQL Documentation](./sql-documentation.docx)** — technical breakdown of schema, views and queries
 * **[Executive Report](./Executive%20Report%20(Insights%20and%20Recommendations).docx)** — visual, business-oriented interpretation of outputs
 * **[ER Diagram](./ERD.pdf)** — visual map of database structure
 
@@ -49,6 +49,7 @@ Monitor inventory health, KPIs, and trends in real-time via our hosted dashboard
 * Live Dashboard (Simple JS hosted separately)
 
 ---
+
 
 
 
